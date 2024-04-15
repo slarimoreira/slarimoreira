@@ -1,18 +1,24 @@
 <div style="display: inline_block" >
   <div>
-    <img align="left"  alt="Lari-Oct" width="160" height="180" src="https://media.discordapp.net/attachments/1215284598905503805/1229542960438181988/spidertocat.png?ex=6630101d&is=661d9b1d&hm=063c171ef95ae24b995b787babc52b5e048588c1ddf360dbedd5d5638a2115ce&=&format=webp&quality=lossless&width=565&height=565">
+    <img align="right"  alt="Lari-Oct" width="160" height="180" src="https://media.discordapp.net/attachments/1215284598905503805/1229542960438181988/spidertocat.png?ex=6630101d&is=661d9b1d&hm=063c171ef95ae24b995b787babc52b5e048588c1ddf360dbedd5d5638a2115ce&=&format=webp&quality=lossless&width=565&height=565">
+  </div>
+
+  <div align="left" >
+
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&random=false&width=470&lines=Ol%C3%A1%2C+eu+sou+a+Larissa+%E2%9D%A4%F0%9F%92%BB)](https://git.io/typing-svg)
+    
   </div>
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&random=false&width=470&lines=Ol%C3%A1%2C+eu+sou+a+Larissa+%E2%9D%A4%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ##
 
 <div align="center">
   <a href="https://github.com/slarimoreira">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=slarimoreira&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarimoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=slarimoreira&theme=midnight-purple"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarimoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
