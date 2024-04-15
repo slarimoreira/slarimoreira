@@ -1,4 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&random=false&width=760&lines=Ol%C3%A1%2C+eu+sou+a+Larissa+%E2%9D%A4;Sou+Analista+de+Engenharia+de+Qualidade+%F0%9F%92%BB)](https://git.io/typing-svg)
+<div style="display: inline_block" >
+  <div>
+    <img align="left"  alt="Lari-Oct" width="160" height="180" src="https://media.discordapp.net/attachments/1215284598905503805/1229542960438181988/spidertocat.png?ex=6630101d&is=661d9b1d&hm=063c171ef95ae24b995b787babc52b5e048588c1ddf360dbedd5d5638a2115ce&=&format=webp&quality=lossless&width=565&height=565">
+  </div>
+
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&vCenter=true&random=false&width=470&lines=Ol%C3%A1%2C+eu+sou+a+Larissa+%E2%9D%A4%F0%9F%92%BB)](https://git.io/typing-svg)
+
 ##
 
 <div align="center">
