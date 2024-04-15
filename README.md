@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=456&lines=Ol%C3%A1%2C+eu+sou+a+Larissa!+%E2%9D%A4;Tenho+20+anos!+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=440&lines=Ol%C3%A1%2C+eu+sou+a+Larissa!+%E2%9D%A4;Tenho+20+anos!+%F0%9F%92%BB)](https://git.io/typing-svg)
 ##
+
 <div align="center">
   <a href="https://github.com/slarimoreira">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=slarimoreira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarimoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slarimoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
