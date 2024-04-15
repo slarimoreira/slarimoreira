@@ -1,6 +1,6 @@
 <div style="display: inline_block" >
   <div>
-    <img align="right"  alt="Lari-Oct" width="160" height="180" src="https://media.discordapp.net/attachments/1215284598905503805/1229542960438181988/spidertocat.png?ex=6630101d&is=661d9b1d&hm=063c171ef95ae24b995b787babc52b5e048588c1ddf360dbedd5d5638a2115ce&=&format=webp&quality=lossless&width=565&height=565">
+    <img align="right"  alt="Lari-Oct" width="150" height="150" src="https://media.discordapp.net/attachments/1215284598905503805/1229542960438181988/spidertocat.png?ex=6630101d&is=661d9b1d&hm=063c171ef95ae24b995b787babc52b5e048588c1ddf360dbedd5d5638a2115ce&=&format=webp&quality=lossless&width=565&height=565">
   </div>
 
   <div align="left" >
